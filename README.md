@@ -1,4 +1,6 @@
-An easy-to-learn layout that fixes Qwerty's main problems with only 8 changes
+An easy-to-learn layout that fixes Qwerty's main problems with only 8 key changes.
+
+Read more here: https://anoda.substack.com/p/tamalpais-keyboard-layout
 
 Qwerty heatmap:
 ![heat qwer](https://github.com/anoda9/Tamalpais/assets/3486897/4d0788ed-6330-4755-99ec-cb0933f1f193)
