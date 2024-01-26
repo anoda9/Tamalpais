@@ -1,4 +1,4 @@
-An easy-to-learn layout that fixes Qwerty's main problems with only 8 key changes.
+An easy-to-learn layout that fixes Qwerty's main problems with only 8 key changes. 6 of the 8 changed letters stay on the same finger.
 
 Read more here: https://anoda.substack.com/p/tamalpais-keyboard-layout
 
