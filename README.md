@@ -1,12 +1,15 @@
-An easy-to-learn layout that fixes Qwerty's main problems with only 8 key changes. 6 of the 8 changed letters stay on the same finger.
+An easy-to-learn keyboard layout that fixes Qwerty's main problems with only 10 key changes. 8 of the 10 changed letters stay on the same finger.
 
 Read more here: https://anoda.substack.com/p/tamalpais-keyboard-layout
 
 Qwerty heatmap:
-![heat qwer](https://github.com/anoda9/Tamalpais/assets/3486897/4d0788ed-6330-4755-99ec-cb0933f1f193)
+![large qwerty](https://github.com/anoda9/Tamalpais/assets/3486897/57224acc-5f28-451f-9b17-8e57db1bf0a9)
+
 
 Tamalpais heatmap:
-![heat tamal](https://github.com/anoda9/Tamalpais/assets/3486897/8dc3ea38-8ae8-4a2b-ae84-b921dec00fa6)
+![large tamal](https://github.com/anoda9/Tamalpais/assets/3486897/a177b1ae-e0e6-4075-b262-c48c3ebc3c6d)
+
 
 Tamalpais layout:
-![tamal finish](https://github.com/anoda9/Tamalpais/assets/3486897/ea5af293-5586-4c28-9ad5-a26602b7e98e)
+![final pic copy 2](https://github.com/anoda9/Tamalpais/assets/3486897/eded3648-2443-4728-9499-64b94d83e2e3)
+
