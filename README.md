@@ -2,6 +2,11 @@ An easy-to-learn keyboard layout that fixes Qwerty's main problems with only 9 k
 
 Read more here: https://anoda.substack.com/p/tamalpais-keyboard-layout
 
+Tamalpais layout:
+
+![tamalpais A1 copy](https://github.com/anoda9/Tamalpais/assets/3486897/9dfe27a9-5638-4293-a7be-12caa446bbbc)
+
+
 Qwerty heatmap:
 ![large qwerty](https://github.com/anoda9/Tamalpais/assets/3486897/57224acc-5f28-451f-9b17-8e57db1bf0a9)
 
@@ -11,7 +16,5 @@ Tamalpais heatmap:
 
 
 
-Tamalpais layout:
 
-![tamalpais A1 copy](https://github.com/anoda9/Tamalpais/assets/3486897/9dfe27a9-5638-4293-a7be-12caa446bbbc)
 
