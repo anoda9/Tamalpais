@@ -11,5 +11,6 @@ Tamalpais heatmap:
 
 
 Tamalpais layout:
-![final pic copy 2](https://github.com/anoda9/Tamalpais/assets/3486897/eded3648-2443-4728-9499-64b94d83e2e3)
+
+![tamalpais A1 copy](https://github.com/anoda9/Tamalpais/assets/3486897/9dfe27a9-5638-4293-a7be-12caa446bbbc)
 
